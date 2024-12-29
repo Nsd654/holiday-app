@@ -9,6 +9,10 @@ This is a full-stack web application built with Django for the backend and React
 - Caching of API responses to optimize performance.
 
 ## Setup and Usage
+*Environment is the virtual envirinment
+*Holiday_management is the project name
+   1.Holiday management(front-end)
+   2.Holidays(backend)
 
 ### Backend (Django)
 
