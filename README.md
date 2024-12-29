@@ -76,10 +76,12 @@ Before you start, make sure you have the following installed:
     ```
 The backend will be running on http://127.0.0.1:8000/.
 
-##Frontend Setup (React)
+## Frontend Setup (React)
+
 1.**Create a new React app:
 
    ```bash
+   cd holiday_management
    npx create-react-app holiday-management
    cd holiday-management
    npm install axios tailwindcss
